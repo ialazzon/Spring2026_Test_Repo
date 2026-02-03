@@ -21,7 +21,7 @@ public class MainClass {
 			System.out.println("Alfarook");
 		System.out.println("Issam Issam Issam");
 		System.out.println("Bara Bara Bara");
-		System.out.println("Jude Jude Jude");
+		System.out.print
 	}
 
 }
